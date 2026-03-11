@@ -13,4 +13,6 @@ To run this project locally:
 6. Launch the interactive dashboard: `streamlit run app.py`
 
 ## Dashboard Screenshot
-*Take screenshot live dashboard*
+
+
+![mlb dashboard](https://github.com/user-attachments/assets/89b888b1-2782-427d-8990-5f46a879122a)
